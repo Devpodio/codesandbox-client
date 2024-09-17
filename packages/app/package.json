@@ -234,7 +234,7 @@
     "shelljs": "^0.8.5",
     "shortid": "^2.2.16",
     "store": "^2.0.12",
-    "string-replace-loader": "^2.1.1",
+    "string-replace-loader": "^3.0.0",
     "string-similarity": "^4.0.4",
     "styled-components": "^5.2.0",
     "subworkers": "^1.0.1",
